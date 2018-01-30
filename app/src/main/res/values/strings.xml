@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Randoom</string>
+    <string name="text_max">最大值</string>
+    <string name="text_min">最小值</string>
+    <string name="edit_out">输出</string>
+    <string name="button_out">生成</string>
+    <string name="e1_hint">0</string>
+    <string name="e2_hint">10</string>
+    <string name="text_length">位数</string>
+</resources>
